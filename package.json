@@ -1,0 +1,18 @@
+{
+  "title": "Transly",
+  "name": "transly",
+  "version": "0.0.1",
+  "description": "Simple context translation. Right click on a selected string in your browser window to open the context menu and click \"Translate\" to translate the string.",
+  "main": "index.js",
+  "author": "gtuk",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "translation",
+    "google translator",
+    "l10n"
+  ]
+}
